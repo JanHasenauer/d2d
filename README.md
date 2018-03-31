@@ -30,9 +30,9 @@ Some special features:
 
 * L1 regularization of parameter fold-changes can be used ([read more](https://github.com/Data2Dynamics/d2d/wiki/L1-regularization)).
 
-* L2 regularization and incorporation of prior knowledge 
+* L2 regularization and incorporation of prior knowledge.
 
-* Identification of informative experimental designs 
+* Identification of informative experimental designs.
 
 * The software is open source and free for non-commercial usage.
 
